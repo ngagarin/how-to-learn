@@ -27,10 +27,12 @@
   height: 32px;
 }
 
-.header_title {
-  width: 430px;
+.header__title {
   display: flex;
   align-items: center;
+  height: 100%;
+  width: 430px;
+  margin-left: 64px;
 }
 
 .header__title_text {
@@ -44,6 +46,17 @@
   left: 64px;
   bottom: 30px;
   width: 388px;
+}
+
+.heder__subtitle_text {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.heder__subtitle_link {
+  color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
