@@ -27,7 +27,7 @@
   height: 32px;
 }
 
-.logo__place_header {
+.logo_place_header {
   position: absolute;
   /** absolute по брифу **/
   top: 30px;
@@ -277,6 +277,7 @@
   height: 877px;
   top: 0;
   right: -210px;
+  background-size: cover;
 }
 
 .section-title_theme_dark {
@@ -329,7 +330,7 @@
   flex-direction: column;
 }
 
-.footer__columns_copyright {
+.footer__column_content_copyright {
   margin: 0;
   display: flex;
   flex-direction: column;
