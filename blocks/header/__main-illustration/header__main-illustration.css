@@ -1,0 +1,9 @@
+.header__main-illustration {
+  position: absolute;
+  /** absolute по брифу **/
+  bottom: 0;
+  right: 0;
+  width: 765px;
+  height: 608px;
+  z-index: 1;
+}
