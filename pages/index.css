@@ -30,6 +30,12 @@
 
 @import url(../blocks/footer/footer.css);
 
-@import url(../blocks/rotation/rotation.css)
+@import url(../blocks/rotation/rotation.css);
+
+@import url(../blocks/techniques/techniques.css);
+
+@import url(../blocks/video/video.css);
+
+@import url(../blocks/cards/cards.css);
 
 
