@@ -8,8 +8,6 @@
 
 @import url(./__text/table__text.css);
 
-@import url(./__text/_theme/table__text_theme_dark.css);
-
 .table {
   margin: 0 auto 100px auto;
   padding: 0;
