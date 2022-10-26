@@ -5,5 +5,5 @@
  flex-wrap: wrap;
  list-style-type: none;
  max-width: 920px;
- justify-content: space-between;
+ justify-content: start;
 }
